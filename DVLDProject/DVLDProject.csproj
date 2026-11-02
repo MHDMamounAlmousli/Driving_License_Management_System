@@ -465,6 +465,7 @@
   <ItemGroup>
     <Content Include="DataBase\script.sql" />
     <Content Include="Resources\account_settings 64.png" />
+    <None Include="README.md" />
     <None Include="Resources\Written Test 5121.png" />
     <None Include="Resources\account_settings 641.png" />
     <Content Include="Resources\Add New User 32.png" />
